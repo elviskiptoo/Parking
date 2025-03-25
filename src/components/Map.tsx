@@ -700,7 +700,7 @@ export default function Map() {
               <PanoramaPhotosphereIcon color="primary" />
               <Typography variant="body2">
                 360° View - Press ESC or click X to exit
-              </Typography>
+            </Typography>
             </Box>
             
             {/* Add a mini-map with the spot location */}
